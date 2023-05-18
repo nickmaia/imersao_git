@@ -11,7 +11,7 @@ O Git e GitHub Playground é um ambiente de teste que permite que você experime
 Comece clonando este repositório para o seu ambiente local. Utilize o comando abaixo em seu terminal:
 
 ```bash
-git clone <URL_do_repositório>
+git clone https://github.com/nickmaia/imersao_git.git
 ```
 
 ### Comandos básicos do Git
