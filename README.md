@@ -49,8 +49,4 @@ Sinta-se à vontade para personalizar este projeto de acordo com suas necessidad
 
 Se você encontrar algum problema ou tiver sugestões de melhorias para o Git e GitHub Playground, fique à vontade para abrir uma issue neste repositório. Sua contribuição é muito bem-vinda!
 
-## Licença
-
-Este projeto está licenciado sob a licença [MIT](LICENSE). Sinta-se livre para utilizar, modificar e distribuir este template conforme necessário.
-
 Aproveite sua jornada de aprendizado com Git e GitHub!
