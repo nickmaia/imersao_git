@@ -1,4 +1,4 @@
-# Git e GitHub Playground
+# Git e GitHub
 
 Bem-vindo ao Git e GitHub Playground! Este é um projeto base para você aprender e praticar técnicas de Git e GitHub. Utilizando este template, você poderá explorar diferentes funcionalidades do Git e do GitHub enquanto trabalha no desenvolvimento do seu próprio projeto.
 
